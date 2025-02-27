@@ -33,5 +33,3 @@ Bayesian	Lower than LDA	N/A
 LDA showed better separation of air quality classes.
 Final predictions saved in Predictii.csv.
 
-📌 Conclusion
-This project demonstrates the power of discriminant analysis in classifying environmental data. The insights gained can support public health policies and air quality monitoring efforts.
