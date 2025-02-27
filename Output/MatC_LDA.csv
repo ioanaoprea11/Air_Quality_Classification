@@ -1,0 +1,5 @@
+,Good,Hazardous,Moderate,Poor,Acuratete
+Good,484,0,0,0,100.0
+Hazardous,0,100,0,17,85.47
+Moderate,4,0,324,6,97.006
+Poor,0,20,30,215,81.132
